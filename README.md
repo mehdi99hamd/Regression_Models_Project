@@ -4,7 +4,7 @@ We Look at a data set of a collection of cars (mtcars), we are interested in exp
 a set of variables and miles per gallon (MPG) (outcome). we are particularly interested in the following two
 questions:
 
-“Is an automatic or manual transmission better for MPG” 
+“Is an automatic or manual transmission better for MPG ?” 
 
 “Quantify the MPG difference between automatic and manual transmissions”
 
