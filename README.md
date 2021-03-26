@@ -27,3 +27,5 @@ The variables included in this dataset are:
 • vs : Engine (0 = V-shaped, 1 = straight)
 
 • am : Transmission (0 = automatic,
+
+You can view my work in this [HTML File](http://htmlpreview.github.io/?https://github.com/mehdi99hamd/Regression_Models_Project/blob/main/Project.html)
